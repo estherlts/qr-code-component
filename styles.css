@@ -1,5 +1,5 @@
 * {
-    
+    font-family: Outfit, sans-serif;
 }
 
 body {
@@ -14,4 +14,8 @@ body {
 .heading {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
+}
+
+.qr-img {
+    width: 200px;
 }
